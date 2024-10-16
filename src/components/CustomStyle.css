@@ -1,0 +1,7 @@
+.accordion-item-hover {
+    transition: transform 0.2s;
+  }
+  
+  .accordion-item-hover:hover {
+    transform: scale(1.05);
+  }

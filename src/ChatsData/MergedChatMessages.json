@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "chatId": "19:0adb315586854c87ba55c3386545cbe3@thread.v2",
+    "chatContent": "Michael Adams: Hi all, how are you\n\nMichael Adams: I am looking for your feedback on our Q3 strategy for Project Icon.&nbsp;\n\nMichael Adams: how are we doing?\n\nLisa Taylor: We have active dev work on multiple epics&nbsp;\n\nLisa Taylor: Most of them are green. I will let Corey comment on the risk items\n\nCorey Gray: Thanks Lisa.&nbsp;\n\nCorey Gray: Yes, there are 2 items that are at risk.\n\nCorey Gray: I have daily standup with offshore team to bring them back to green.\n\nCorey Gray: We may have to sacrifice one feature though. But that is not in critical path.\n\nMichael Adams: That's fine, as long as we deliver the critical path features\n\nCorey Gray: Yes, we are good in that case\n\n",
+    "participants": [
+      "Michael Adams",
+      "Lisa Taylor",
+      "Corey Gray"
+    ]
+  },
+  {
+    "id": 1,
+    "chatId": "19:2fb36646-be87-41a8-997a-31705837af3e_e2b1a978-501a-4ced-928e-00606ade9650@unq.gbl.spaces",
+    "chatContent": "Michael Adams: Hey Sydney\n\nSydney Mattos: Hello Boss\n\nMichael Adams: Can we start working on a plan for our ACM Team Offsite that's schedule for Oct 2nd week?&nbsp;\n\nSydney Mattos: Yes, we have a few ideas and I am working with Lisa on it\n\nMichael Adams: Great. Can you give me an overview or draft on the plan\n\nSydney Mattos: Yes, we have a total of 120 employees attending\n\nSydney Mattos: Except a handful most of them have booked their travel.\n\nSydney Mattos: We have the Washington conference center booked for the whole week.&nbsp;\n\nMichael Adams: How about the technical sessions and the team building events?\n\nSydney Mattos: We got a vendor hired for the team build events. And also have Adrian for the motivational speaking session\n\nMichael Adams: Great!\n\nSydney Mattos: I will send you list if technical sessions in a week\n\nMichael Adams: okay\n\n",
+    "participants": [
+      "Michael Adams",
+      "Sydney Mattos"
+    ]
+  },
+  {
+    "id": 2,
+    "chatId": "19:42bda418-40b6-466f-a244-6d950c0bc6a8_e2b1a978-501a-4ced-928e-00606ade9650@unq.gbl.spaces",
+    "chatContent": "Michael Adams: Hi Corey, can you see this issue:\nNull pointer exception when I hit the submit in the new order screen.\n\nMichael Adams: User loosing items in the cart. Help\n\nMichael Adams: I see issue with the website login.\n\nMichael Adams:   Corey Gray\n\nMichael Adams:   Corey Gray\n\nMichael Adams: &nbsp;&nbsp;Corey, how is it going? What is the timeline to deliver the playbook for Slack to Teams for the field?\n\nCorey Gray: Hey, we are still working on it. There is a lot of collateral created. Its a matter of putting them all together.&nbsp;\n\nMichael Adams: What customers are currently actively migrating to Teams?\n\nCorey Gray: Well, let me loop in&nbsp;Billie Vester. He knows better\n\nMichael Adams: Hey Billie\n\nCorey Gray: Billie, can you let us know the active Slack to Teams migrations happening\n\nCorey Gray: Billie is OOF this week. Let me start a group chat with Sydney\n\nMichael Adams: Can we plan a lunch and meet with potential sponsors for the upcoming offsite event?\n\nCorey Gray: Sure, i will work on it\n\nCorey Gray: I got the sponsors lined up for Friday afternoon lunch.&nbsp;\n\nMichael Adams: That's great!\n\nCorey Gray: Anything else?\n\nMichael Adams: What is your vacation plan for the long weekend\n\nCorey Gray: aah! we are flying to Hawaii!&nbsp;\n\nMichael Adams: sweet!\n\n",
+    "participants": [
+      "Michael Adams",
+      "Corey Gray"
+    ]
+  },
+  {
+    "id": 3,
+    "chatId": "19:43d51ec9-a2f5-4c26-b28a-681afc374084_e2b1a978-501a-4ced-928e-00606ade9650@unq.gbl.spaces",
+    "chatContent": "Michael Adams: Lisa, are you working on the cart items issue\n\nMichael Adams: Hi Lisa, I am looking for updates on the Copilot agents? What is our plan on messaging to our partners&nbsp;&nbsp;\n\nLisa Taylor: Hi there\n\nLisa Taylor: You mean Copilto extensions?\n\nMichael Adams: Are you kidding me?\n\nLisa Taylor: of course \n\nLisa Taylor: I know we have rebranded extensiosn to Agents.&nbsp;\n\nMichael Adams: Thanks God!\n\nMichael Adams: So whats the plan&nbsp;\n\nLisa Taylor: We have a event scheduled for Nov 20th. its a 30mins tight session where we showcase Copilots, rebranding, various agents across our office apps\n\nMichael Adams: Who are the target audience?\n\nLisa Taylor: Its all of our customers but mainly our ISV's and Partners\n\nLisa Taylor: We are at the final stretch\n\nLisa Taylor: Dotting the i's and crossing the t's\n\nMichael Adams: Nice\n\nMichael Adams: Keep me posted\n\n",
+    "participants": [
+      "Michael Adams",
+      "Lisa Taylor"
+    ]
+  },
+  {
+    "id": 4,
+    "chatId": "19:48a16acd5e2440b88b4b671ee7ddb336@thread.v2",
+    "chatContent": "Michael Adams: Hi Team, how is it going?\n\nLisa Taylor: Working on the issue reported by Corey\n\n",
+    "participants": [
+      "Michael Adams",
+      "Lisa Taylor"
+    ]
+  },
+  {
+    "id": 5,
+    "chatId": "19:7110d9c8f8f34b5baf873ebe00e2c0fa@thread.v2",
+    "chatContent": "Corey Gray: Hello team\n\nMichael Adams: hey\n\nCorey Gray: We looking for latest list of customers migrating from Slack to Teams. Can you help?\n\nMichael Adams: Hi there\n\nMichael Adams: Billie can help with that\n\nCorey Gray: I know but Billie is OOF so reaching out to you\n\nMichael Adams: yes, forgot about that.&nbsp;\n\nMichael Adams: Let me get back to you\n\nMichael Adams: Ok, found the list\n\nMichael Adams: Great!\n\nSydney Mattos: We have a mix of customers and not eveyrone is moving from Slack.\n\nSydney Mattos: Slack to Teams:\nContoso\nFabrikam\n&nbsp;\nZoom to Teams:\nAdventureWorks\n&nbsp;\nGoogle Chat to Teams:\nReleCloud\nWorkForce\n\nMichael Adams: That;s is even better. Thanks so much Sydney\n\nSydney Mattos: Your welcome\n\n",
+    "participants": [
+      "Corey Gray",
+      "Michael Adams",
+      "Sydney Mattos"
+    ]
+  },
+  {
+    "id": 6,
+    "chatId": "19:afcc4976-264f-472d-9aa5-001f04003542_e2b1a978-501a-4ced-928e-00606ade9650@unq.gbl.spaces",
+    "chatContent": "Michael Adams: Hi Sonia, I need help with my Outlook issue? I am not able to create meetings with Teams meeting link\n\nMichael Adams: Is this a known issue? I keep hearing it\n\nMichael Adams: Is this issue specific to the new Teams?&nbsp;\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 7,
+    "chatId": "19:b2e911bc-0c5e-425e-b939-e2bbbc8e22d9_e2b1a978-501a-4ced-928e-00606ade9650@unq.gbl.spaces",
+    "chatContent": "Michael Adams: hi\n\nMichael Adams: Did you see the new script published&nbsp;\nIdentifyIncomingWebhooks/IncomingWebhook.ps1 at main · TheBluLion/IdentifyIncomingWebhooks (github.com)\n\nMichael Adams: I think the code here can be improved a lot. Can you take a stab at it?\n\nMichael Adams: Many of our customers are not happy with the deprecation of incoming webhooks. We must prioritize this script work\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 8,
+    "chatId": "19:e2b1a978-501a-4ced-928e-00606ade9650_1d40f09f-cfd9-4e8d-8ab5-023a253c8b66@unq.gbl.spaces",
+    "chatContent": "Michael Adams: hi\n\nMichael Adams: lets play the game\n\nMichael Adams: who is my manager\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 9,
+    "chatId": "19:e2b1a978-501a-4ced-928e-00606ade9650_34f564d1-6506-446d-9e72-adc560aff47a@unq.gbl.spaces",
+    "chatContent": "Michael Adams: What devices are supported for Teams Phone Mobile\n\nMichael Adams: What are the PSTN plans available and supported\n\nMichael Adams: What guidance do you have for deploying Teams phone in a financial services organization. List it in bullet points and in short sentences.\n\nMichael Adams: What guidance do you have for deploying Teams phone\n\nMichael Adams: hello\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 10,
+    "chatId": "19:e2b1a978-501a-4ced-928e-00606ade9650_358f0194-6b0e-4dd3-af35-c24fe8a9ec87@unq.gbl.spaces",
+    "chatContent": "Michael Adams: List flows\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 11,
+    "chatId": "19:e2b1a978-501a-4ced-928e-00606ade9650_49471a10-fdbc-4ffb-b0b8-944f3df985d9@unq.gbl.spaces",
+    "chatContent": "Michael Adams: Help me open a request for my outlook issue\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 12,
+    "chatId": "19:e2b1a978-501a-4ced-928e-00606ade9650_a4c5d276-efdc-4924-a6b2-d18eb0bf7ad2@unq.gbl.spaces",
+    "chatContent": "Michael Adams: help me with Excel formula please\n\nMichael Adams: i need to format certain columns\n\nMichael Adams: use formula to take column A and update column B\n\nMichael Adams: how can I set out of office auto reply\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 13,
+    "chatId": "19:e2b1a978-501a-4ced-928e-00606ade9650_b0a89c3e-4154-4dae-8a28-a50bc1eb00a8@unq.gbl.spaces",
+    "chatContent": "Michael Adams: Explain Microsoft Teams Phone\n\nMichael Adams: can you list the PSTN connectivity options in bullet points\n\nMichael Adams: My dial pad is missing. Please help.\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  },
+  {
+    "id": 14,
+    "chatId": "19:e2b1a978-501a-4ced-928e-00606ade9650_ee283859-0ff5-4e38-a0f8-9082ca2c9650@unq.gbl.spaces",
+    "chatContent": "Michael Adams: Hi Amber\n\nMichael Adams: Cna you help me understand the ramifications due to deprecation of incoming webhooks?\n\nMichael Adams: Especially from the power platform licensing standpoint.\n\nMichael Adams: I see many comments about how the deprecation is bad, as our customers must now pay for something that was free\n\nMichael Adams: I know you are power platform expert and hence look up to you for your guidance\n\nMichael Adams: Plz get back to me soon\n\n",
+    "participants": [
+      "Michael Adams"
+    ]
+  }
+]

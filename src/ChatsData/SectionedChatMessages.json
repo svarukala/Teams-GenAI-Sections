@@ -1,0 +1,78 @@
+{
+  "Project Management": {
+    "conversations": [
+      {
+        "id": 0,
+        "topicTitle": "Feedback on Q3 Strategy for Project Icon"
+      },
+      {
+        "id": 3,
+        "topicTitle": "Updates on Copilot Agents"
+      },
+      {
+        "id": 4,
+        "topicTitle": "Working on Cart Items Issue"
+      }
+    ]
+  },
+  "Team Offsite Planning": {
+    "conversations": [
+      {
+        "id": 1,
+        "topicTitle": "Planning for ACM Team Offsite"
+      },
+      {
+        "id": 2,
+        "topicTitle": "Lunch and Meeting with Sponsors for Offsite"
+      },
+      {
+        "id": 5,
+        "topicTitle": "Customer Migrations from Slack to Teams"
+      }
+    ]
+  },
+  "Technical Issues": {
+    "conversations": [
+      {
+        "id": 6,
+        "topicTitle": "Outlook Meeting Link Issue"
+      },
+      {
+        "id": 7,
+        "topicTitle": "Improvement on Incoming Webhooks Script"
+      },
+      {
+        "id": 13,
+        "topicTitle": "Microsoft Teams Phone Guidance"
+      },
+      {
+        "id": 14,
+        "topicTitle": "Deprecation of Incoming Webhooks Ramifications"
+      }
+    ]
+  },
+  "General Queries": {
+    "conversations": [
+      {
+        "id": 9,
+        "topicTitle": "Supported Devices for Teams Phone"
+      },
+      {
+        "id": 10,
+        "topicTitle": "Listing Flows"
+      },
+      {
+        "id": 11,
+        "topicTitle": "Request for Outlook Issue"
+      },
+      {
+        "id": 12,
+        "topicTitle": "Help with Excel Formula"
+      },
+      {
+        "id": 8,
+        "topicTitle": "Game: Who is My Manager?"
+      }
+    ]
+  }
+}
